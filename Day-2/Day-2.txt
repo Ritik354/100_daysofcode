@@ -1,0 +1,5 @@
+👉Day-2 Practice Problems
+🔹Problem-1
+       https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+🔹Problem-2
+       https://leetcode.com/problems/move-zeroes/description/
